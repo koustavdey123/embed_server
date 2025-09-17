@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "git integration sync test 1"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "f1450888-5cbc-a82b-4329-9185a87ecc3e"
+  }
+}
